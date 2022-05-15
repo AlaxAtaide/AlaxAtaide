@@ -1,4 +1,4 @@
-## Olá! Eu sou Álax Ataíde👋
+## Olá! Me chamo Álax Ataíde, Desenvolvedor Front-End e Estudante de Engenharia de Software👋
 
 <div align="center">
   <a href="https://github.com/AlaxAtaide">
