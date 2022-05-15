@@ -1,9 +1,4 @@
-### Olá! Eu sou Álax Ataíde👋
-
-
-- 🔭 Atualmente trabalho com Analise de Dados no BRB (Estágio) 
-- 🌱 Estudando JavaScript e TypeScript, aprimorando meu conhecimento em Banco de Dados
-- 👯 A procura de trabalhar na area como Desenvolvedor Front End
+## Olá! Eu sou Álax Ataíde👋
 
 <div align="center">
   <a href="https://github.com/AlaxAtaide">
