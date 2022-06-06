@@ -10,7 +10,8 @@
   <img align="center" alt="Alax-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alax-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Alax-pic" height="150" style="border-radius:50px;" 
-  <img align="right" alt="Alax-gif" src="https://media.discordapp.net/attachments/930982442863587331/975441466149183488/Webp.net-gifmaker.gif">
+  <img align="right" alt="Alax-gif" src="https://i.imgur.com/An6xJ79.gif">
+  <a href="https://imgur.com/An6xJ79"><img src="https://i.imgur.com/An6xJ79.gif" title="source: imgur.com" /></a>
 </div>
   
   ##
