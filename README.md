@@ -12,6 +12,8 @@
   <img align="center" alt="Alax-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
   <img align="center" alt="Alax-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   
+  
+  
   <img align="right" alt="Alax-pic" height="150" style="border-radius:50px;" 
  <a href="https://imgur.com/An6xJ79"><img src="https://i.imgur.com/An6xJ79.gif" title="source: imgur.com" /></a>
 </div>
