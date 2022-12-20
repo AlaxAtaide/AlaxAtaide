@@ -47,6 +47,11 @@
   <a href="https://www.behance.net/lax2" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/AlaxAtaide/AlaxAtaide/blob/output/github-contribution-grid-snake.svg)
+
+  </div>
   
-</div
+  ##Footer 
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1230db&height=120&section=footer"/>
+  
+
 
