@@ -1,4 +1,23 @@
-## Olá! Me chamo Álax Ataíde, Desenvolvedor Front-End e Estudante de Engenharia de Software👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1230db&height=160&section=header&text=Álax%20Ataíde🌪️&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+
+<img align="left" alt="Alax-pic" height="250" style="border-radius:50px;" src="https://i.imgur.com/An6xJ79.gif" title="source: imgur.com" /></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=289bfd&center=true&vCenter=true&width=500&lines=Dev+Front-End+/+Analista+de+Dados+Jr)](https://git.io/typing-svg)
+
+
+
+<div align="left">
+  ● Olá! Me chamo Álax Ataíde 👋 <br>
+  ● Me aperfeiçoando cada dia mais em programação <br>
+  ● Graduando Engenharia de Software pela UNICEPLAC <br>
+  ● Dev Front-End e Analista de Dados em desenvolvimento... <br>
+  ● Adoro música, design e desenvolver projetos que me desafiam em meu tempo livre <br>
+  ● Amo contato com a natureza  <br>
+  ● Atualmente estudando Python e R <br>
+  ● Aberto a novas oportunidades <br>
+</div>
+
+------------------------------------------------------------------------
 
 <div align="center">
   <a href="https://github.com/AlaxAtaide">
@@ -15,7 +34,7 @@
   
   
   
-<img align="right" alt="Alax-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/An6xJ79.gif" title="source: imgur.com" /></a>
+
 </div>
   
   ##
