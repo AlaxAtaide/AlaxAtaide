@@ -7,14 +7,14 @@
 
 
 <div align="  ">
-  ● Olá! Me chamo Álax Ataíde 👋 <br>
-  ● Me aperfeiçoando cada dia mais em programação <br>
-  ● Graduando Engenharia de Software pela UNICEPLAC <br>
-  ● Dev Front-End e Analista de Dados em desenvolvimento... <br>
-  ● Adoro música, design e desenvolver projetos que me desafiam em meu tempo livre <br>
-  ● Amo contato com a natureza  <br>
-  ● Atualmente estudando Python e R <br>
-  ● Aberto a novas oportunidades <br>
+  ㅤ● Olá! Me chamo Álax Ataíde 👋 <br>
+  ㅤ● Graduando Engenharia de Software pela UNICEPLAC <br>
+  ㅤ● Dev Front-End e Analista de Dados em desenvolvimento... <br>
+  ㅤ● Me aperfeiçoando cada dia mais no mundo da programação <br>
+  ㅤ● Adoro música, design e desenvolver projetos que me desafiam em meu tempo livre <br>
+  ㅤ● Amo contato com a natureza  <br>
+  ㅤ● Atualmente estudando Python e R <br>
+  ㅤ● Aberto a novas oportunidades <br>
 </div>
 
 ------------------------------------------------------------------------
@@ -32,23 +32,22 @@
   <img align="center" alt="Alax-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
   <img align="center" alt="Alax-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   
-  
-  
-
 </div>
   
   ##
  
 <div> 
-  <a href="https://twitter.com/Deforceh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/Deforcehh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alaxasb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alaxataide/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.behance.net/lax2" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <h2 align="center">Entre em contato:</h2>
+    <p align="center">
+    <a href="https://twitter.com/Deforceh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"        target="_blank"></a>
+    <a href="https://www.instagram.com/Deforcehh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:alaxasb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/alaxataide/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.behance.net/lax2" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/AlaxAtaide/AlaxAtaide/blob/output/github-contribution-grid-snake.svg)
 
-  </div>
+</div>
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
