@@ -6,7 +6,7 @@
 
 
 
-<div align="left">
+<div align="  ">
   ● Olá! Me chamo Álax Ataíde 👋 <br>
   ● Me aperfeiçoando cada dia mais em programação <br>
   ● Graduando Engenharia de Software pela UNICEPLAC <br>
@@ -49,6 +49,11 @@
   ![Snake animation](https://github.com/AlaxAtaide/AlaxAtaide/blob/output/github-contribution-grid-snake.svg)
 
   </div>
+  
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AlaxAtaide}/count.svg" /></p> 
+<br></div>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1230db&height=120&section=footer"/>
   
