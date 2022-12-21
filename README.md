@@ -37,7 +37,7 @@
   
   ##
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlaxAtaide&bg_color=000000&color=0092db&line=001eff&point=006eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlaxAtaide&bg_color=000000&color=0092db&line=001eff&point=006eff&area=true&hide_border=true)](https://github.com/AlaxAtaide/AlaxAtaide)
  
 <div> 
   <h2 align="center">Entre em contato:</h2>
