@@ -12,7 +12,7 @@
   ㅤ● Dev Front-End e Analista de Dados em desenvolvimento... <br>
   ㅤ● Me aperfeiçoando cada dia mais no mundo da programação <br>
   ㅤ● Adoro música, design e desenvolver projetos que me desafiam em meu tempo livre <br>
-  ㅤ● Amo contato com a natureza  <br>
+  ㅤ● Músico e Designer nas horas vagas  <br>
   ㅤ● Atualmente estudando Python e R <br>
   ㅤ● Aberto a novas oportunidades <br>
 </div>
