@@ -26,14 +26,14 @@
   <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaxAtaide&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div align="center" style="display: inline_block align="center"><br>
-  <img align="center" alt="Alax-Java" height="65" width="65" src="https://skillicons.dev/icons?i=java">
-  <img align="center" alt="Alax-Js" height="65" width="65" src="https://skillicons.dev/icons?i=javascript">
-  <img align="center" alt="Alax-HTML" height="65" width="65" src="https://skillicons.dev/icons?i=html">
-  <img align="center" alt="Alax-CSS" height="65" width="65" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="Alax-Python" height="65" width="65" src="https://skillicons.dev/icons?i=python" />
-  <img align="center" alt="Alax-R" height="65" width="65" src="https://skillicons.dev/icons?i=r&theme=light" />
-  <img align="center" alt="Alax-SQL" height="65" width="65" src="https://skillicons.dev/icons?i=mysql" />
-  <img align="center" alt="Alax-WP" height="65" width="65" src="https://skillicons.dev/icons?i=wordpress" />
+  <img align="center" alt="Alax-Java" height="60" width="65" src="https://skillicons.dev/icons?i=java">
+  <img align="center" alt="Alax-Js" height="60" width="65" src="https://skillicons.dev/icons?i=javascript">
+  <img align="center" alt="Alax-HTML" height="60" width="65" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="Alax-CSS" height="60" width="65" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="Alax-Python" height="60" width="65" src="https://skillicons.dev/icons?i=python" />
+  <img align="center" alt="Alax-R" height="60" width="65" src="https://skillicons.dev/icons?i=r&theme=light" />
+  <img align="center" alt="Alax-SQL" height="60" width="65" src="https://skillicons.dev/icons?i=mysql" />
+  <img align="center" alt="Alax-WP" height="60" width="65" src="https://skillicons.dev/icons?i=wordpress" />
 </div>
   
   ##
