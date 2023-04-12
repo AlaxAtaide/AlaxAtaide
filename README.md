@@ -41,7 +41,7 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlaxAtaide&bg_color=000000&color=0092db&line=001eff&point=006eff&area=true&hide_border=true)](https://github.com/AlaxAtaide/AlaxAtaide)
  
 <div> 
-  <h2 align="center">Entre em contato:</h2>
+  <h2 align="center">📩 Entre em contato:</h2>
     <p align="center">
     <a href="https://twitter.com/Deforceh" target="_blank"><img src="https://img.shields.io/badge/Twitter-3c00f8?style=for-the-badge&logo=twitter&logoColor=white"        target="_blank"></a>
     <a href="https://www.instagram.com/Deforcehh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-3c00f8?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
