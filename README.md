@@ -28,6 +28,7 @@
 <div align="center" style="display: inline_block align="center"><br>
   <img align="center" alt="Alax-Java" height="60" width="65" src="https://skillicons.dev/icons?i=java">
   <img align="center" alt="Alax-Js" height="60" width="65" src="https://skillicons.dev/icons?i=javascript">
+  <img align="center" alt="Alax-Flutter" height="60" width="65" src="https://skillicons.dev/icons?i=flutter">                                                                                                       
   <img align="center" alt="Alax-HTML" height="60" width="65" src="https://skillicons.dev/icons?i=html">
   <img align="center" alt="Alax-CSS" height="60" width="65" src="https://skillicons.dev/icons?i=css">
   <img align="center" alt="Alax-Python" height="60" width="65" src="https://skillicons.dev/icons?i=python" />
