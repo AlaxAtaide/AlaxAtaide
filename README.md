@@ -9,7 +9,7 @@
 <div align="  ">
   ㅤ● Olá! Me chamo Álax Ataíde 👋 <br>
   ㅤ● Graduando Engenharia de Software pela UNICEPLAC <br>
-  ㅤ● Dev Front-End e Analista de Dados em desenvolvimento... <br>
+  ㅤ● Fullstack Developer em desenvolvimento ... <br>
   ㅤ● Me aperfeiçoando cada dia mais no mundo da programação <br>
   ㅤ● Adoro música, design e desenvolver projetos que me desafiam em meu tempo livre <br>
   ㅤ● Músico e Designer nas horas vagas  <br>
