@@ -2,14 +2,14 @@
 
 <img align="left" alt="Alax-pic" height="250" style="border-radius:50px;" src="https://i.imgur.com/An6xJ79.gif" title="source: imgur.com" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=289bfd&center=true&vCenter=true&width=500&lines=Dev+Front-End+/+Analista+de+Dados+Jr)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=289bfd&center=true&vCenter=true&width=500&lines=FullStack+Developer)](https://git.io/typing-svg)
 
 
 
 <div align="  ">
   ㅤ● Olá! Me chamo Álax Ataíde 👋 <br>
   ㅤ● Graduando Engenharia de Software pela UNICEPLAC <br>
-  ㅤ● Fullstack Developer em desenvolvimento ... <br>
+  ㅤ● Fullstack Developer em desenvolvimento... <br>
   ㅤ● Me aperfeiçoando cada dia mais no mundo da programação <br>
   ㅤ● Adoro música, design e desenvolver projetos que me desafiam em meu tempo livre <br>
   ㅤ● Músico e Designer nas horas vagas  <br>
