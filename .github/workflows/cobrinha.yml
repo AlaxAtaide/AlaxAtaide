@@ -1,8 +1,8 @@
 name: Generate Datas
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,19 +16,6 @@ jobs:
         with:
           github_user_name: AlaxAtaide
           svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '14'
-
-      - name: Install Dependencies
-        run: |
-          npm install
-
-      - name: Build
-        run: |
-          npm run build
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
