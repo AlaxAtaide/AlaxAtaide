@@ -22,8 +22,8 @@
 
 <div align="center">
   <a href="https://github.com/AlaxAtaide">
-  <img width="54.5%" src="https://github-readme-stats.vercel.app/api?username=AlaxAtaide&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaxAtaide&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="57.8%" src="https://github-readme-stats.vercel.app/api?username=AlaxAtaide&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaxAtaide&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div align="center" style="display: inline_block align="center"><br>
   <img align="center" alt="Alax-Java" height="60" width="65" src="https://skillicons.dev/icons?i=java">
@@ -38,8 +38,12 @@
 </div>
   
   ##
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlaxAtaide&bg_color=000000&color=0092db&line=001eff&point=006eff&area=true&hide_border=true)](https://github.com/AlaxAtaide/AlaxAtaide)
+
+<p align="center">
+  <img height="350" width="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlaxAtaide&theme=transparent" alt="GitHub Profile Summary Card" />
+</p>
+
+
  
 <div> 
   <h2 align="center">📩 Entre em contato:</h2>
@@ -54,7 +58,7 @@
 
 </div>
   
-  <div align="center">
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AlaxAtaide}/count.svg" /></p> 
 <br></div>
