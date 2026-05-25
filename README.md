@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=180&section=header&text=Álax%20Ataíde&fontSize=38&fontColor=FFFFFF&fontAlignY=25&desc=Fullstack%20Developer%20%7C%20Java%20%7C%20Spring%20%7C%20AWS%20%7C%20Angular&descAlignY=48&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=180&section=header&text=Álax%20Ataíde&fontSize=38&fontColor=FFFFFF&fontAlignY=25&desc=Fullstack%20Developer%20%7C%20Java%20%7C%20Spring%20%7C%20AWS%20%7C%20Angular&descAlignY=48&descSize=15" />
 
-<h2>👋 Hey there, I’m Alax!</h2>
+## 👋 Hey there, I’m Alax!
 
 I’m a full-stack developer with a passion for building great software. I started coding back in 2022, and over the years, I’ve worked with various technologies. These days, you’ll mostly find me working with Java in backend and Angular or React in frontend
 
