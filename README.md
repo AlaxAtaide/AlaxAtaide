@@ -9,7 +9,7 @@ I enjoy writing clean, maintainable code and always look for elegant solutions t
 🚀 Tech I Love
 
 	•	Back-end: Java, Spring Boot, Spring MVC, Hibernate/JPA
-	•	Front-end: React, Angular, TypeScript
+	•	Front-end: JavaScript, TypeScript, React, Angular
 	•	Architecture: Microservices, Event-driven systems, SOLID, Design Patterns
 	•	Messaging: Kafka, RabbitMQ, AWS SQS & SNS
 	•	Cloud & DevOps: AWS, Docker, CI/CD, Kubernetes (basic)
