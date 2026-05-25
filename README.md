@@ -1,58 +1,26 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=180&section=header&text=Álax%20Ataíde&fontSize=38&fontColor=FFFFFF&fontAlignY=25&desc=Fullstack%20Developer%20%7C%20Java%20%7C%20Spring%20%7C%20AWS%20%7C%20Angular&descAlignY=48&descSize=18" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=220&section=header&text=Álax%20Ataíde&fontSize=38&fontColor=FFFFFF&fontAlignY=32&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20AWS%20%7C%20Microservices&descAlignY=55&descSize=18" />
+<h2>👋 Hey there, I’m Alax!</h2>
 
-## 🚀 About Me
+I’m a full-stack developer with a passion for building great software. I started coding back in 2022, and over the years, I’ve worked with various technologies. These days, you’ll mostly find me working with Java in backend and Angular or React in frontend
 
-Backend Developer with over 3 years of experience building scalable and maintainable systems using **Java and Spring Boot**.
+I enjoy writing clean, maintainable code and always look for elegant solutions to complex problems. Open source and craftsmanship are at the heart of what I do.
 
-Strong background in REST APIs, distributed systems, relational and NoSQL databases, and cloud-native architectures on AWS.
+🚀 Tech I Love
 
-🎓 Bachelor's Degree in Software Engineering (2023)
+	•	Back-end: Java, Spring Boot, Spring MVC, Hibernate/JPA
+	•	Front-end: React, Angular, TypeScript
+	•	Architecture: Microservices, Event-driven systems, SOLID, Design Patterns
+	•	Messaging: Kafka, RabbitMQ, AWS SQS & SNS
+	•	Cloud & DevOps: AWS, Docker, CI/CD, Kubernetes (basic)
+ 	•	Security: JWT, OAuth2, Secure API Design
 
-Focused on performance, clean architecture and event-driven systems.
+💬 Let’s Chat
 
----
+Not a big fan of social media, but if you want to talk about code, software, or anything interesting, you can find me on Discord: @alaxataide.
 
-## 🧠 Core Stack
+Open Agenda: [schedule a call here](https://alaxataide.site)
 
-**Backend**
-- Java, Spring Boot, Spring MVC
-- JPA / Hibernate
-- RESTful APIs
-- Maven & Gradle
-
-**Architecture**
-- Microservices
-- Event-driven architecture
-- Design Patterns & SOLID
-
-**Messaging**
-- Kafka
-- RabbitMQ
-- AWS SQS & SNS
-
-**Databases**
-- PostgreSQL, Oracle, SQL Server, MySQL
-- DynamoDB, MongoDB, Redis
-
-**Cloud & DevOps**
-- AWS (EC2, S3, RDS, Lambda, API Gateway)
-- Docker
-- CI/CD
-- Basic Kubernetes
-
-**Security**
-- JWT
-- OAuth2
-- Secure API design
-
----
-
-<div align="center"> 
-  <h2>📬 Contact</h2>
-  <a href="mailto:alaxataide@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" alt="Outlook logo"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alaxataide/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Linkedin logo"></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:alaxataide@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail logo"></a>
-</div>
+Looking forward to connecting with fellow developers!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=120&section=footer"/>
